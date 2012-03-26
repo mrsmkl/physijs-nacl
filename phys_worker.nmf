@@ -1,0 +1,6 @@
+{
+  "program": {
+    "x86-64": {"url": "phys_worker_x86_64.nexe"},
+    "x86-32": {"url": "phys_worker_x86_32.nexe"}
+  }
+}
